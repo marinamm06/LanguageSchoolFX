@@ -1,0 +1,12 @@
+English;A1;000111222A;blueRoom;Mon/Wed 5 p.m - 7 p.m
+English;A2;000111222A;blueRoom;Tue/Thu 5 p.m - 7 p.m
+English;B1;111222333B;blueRoom;Mon/Wed 10 a.m - 12 a.m
+English;B2;111222333B;blueRoom;Tue/Thu 10 a.m - 12 a.m
+French;A1;222333444C;redRoom;Mon/Thu 11 a.m - 1 p.m
+French;A2;222333444C;redRoom;Tue/Fri 11 a.m - 1 p.m
+French;B1;333444555D;redRoom;Mon/Thu 4 p.m - 6 p.m
+French;B2;333444555D;redRoom;Tue/Fri 4 p.m - 6 p.m
+Spanish;A1;444555666E;yellowRoom;Mon/Wed 11 a.m - 1 p.m
+Spanish;A2;444555666E;yellowRoom;Tue/Thu 11 a.m - 1 p.m
+Spanish;B1;555666777F;yellowRoom;Mon/Wed 4 p.m - 6 p.m
+Spanish;B2;555666777F;yellowRoom;Tue/Thu 4 p.m - 6 p.m
